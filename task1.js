@@ -106,7 +106,7 @@ document.writeln("Batch 33")
 
 // 21. Create variable studentName and store your name.
 
-var studentName="Arfath";
+var studentName="ArfatMoningi Ajai";
 
 // 22. Create variable studentAge and store your age.
 
